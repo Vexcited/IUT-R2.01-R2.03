@@ -2,7 +2,7 @@ package montagne.metier;
 
 import java.util.Objects;
 
-public class Sommet {
+public class Sommet implements Comparable<Sommet> {
 
 	private final String nom;
 	private final Integer altitude;
@@ -48,6 +48,7 @@ public class Sommet {
 		return Objects.equals(altitude, other.altitude) && chaine == other.chaine && Objects.equals(nom, other.nom);
 	}
 	
-	
-
+	public int compareTo(Sommet sommet) {
+    return sommet.altitude().compareTo(this.altitude);
+  }
 }
