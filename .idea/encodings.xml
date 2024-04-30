@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cardgame/warcardgame/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cardgame/warcardgame/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javabut1/tp-canard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javabut1/tp-canard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javabut1/tp-input-output/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javabut1/tp-input-output/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
